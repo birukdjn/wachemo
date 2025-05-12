@@ -808,8 +808,9 @@ ul {
 }
 
 .footer-logo {
-    height: 50px;
-    margin-bottom: 20px;
+    display: flex;
+    height: 200px;
+    margin:  -30px auto;
 }
 
 .footer-widget {
